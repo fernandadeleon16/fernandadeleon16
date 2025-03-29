@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Fernanda de León
 
-**fernandadeleon16/fernandadeleon16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🌱 I’m currently learning Data Analysis
 - 📊 I studied a degree in computer science
