@@ -27,7 +27,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-    <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
     <img src="https://static.vecteezy.com/system/resources/previews/001/416/705/non_2x/html5-emblem-orange-shield-and-white-text-vector.jpg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/php-logo-1.png" alt="cplusplus" width="40" height="40"/>
   </a>
 </p>
