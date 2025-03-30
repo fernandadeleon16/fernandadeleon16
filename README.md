@@ -38,4 +38,7 @@
   <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer">
     <img src="https://images.icon-icons.com/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" alt="cplusplus" width="40" height="40"/>
   </a>
+  <a href="https://www.w3schools.com/xml/default.asp" target="_blank" rel="noreferrer">
+    <img src="https://static.vecteezy.com/system/resources/previews/015/829/760/original/xml-file-format-icon-free-vector.jpg" alt="cplusplus" width="40" height="40"/>
+  </a>
 </p>
