@@ -24,13 +24,10 @@
  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" alt="sql" width="100" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
     <img src="https://static.vecteezy.com/system/resources/previews/001/416/705/non_2x/html5-emblem-orange-shield-and-white-text-vector.jpg" alt="cplusplus" width="40" height="40"/>
   </a>
 </p>
