@@ -6,7 +6,7 @@
   
 • 📖 I’m currently learning **Data Analysis**
 
-• 📊 I studied a degree in **computer science** 
+• 📊 I studied a degree in **Computer Science** 
 
 • 💬 Ask me about **Web Programming and Data Analysis**
 
@@ -14,4 +14,4 @@
 
 • 😄 Pronouns: **she/her** 
 
-• ⚡ Fun fact: I am passionate about **art** I consider myself a **creative person**</h3>
+• ⚡ Fun fact: I am passionate about **art** I consider myself a **creative person**.</h3>
