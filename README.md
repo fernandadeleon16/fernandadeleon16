@@ -46,7 +46,7 @@
 <h2 align="left">Data Analysis Tools</h2>
 <p align="left">
  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/python/numpy/default.asp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="Numpy" width="40" height="40"/> </a>
- <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/python/numpy/default.asp" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/python/pandas/default.asp" target="_blank" rel="noreferrer"> <img src="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#130754" d="M46.236 7.567h13.99v29.047h-13.99Zm0 59.668h13.99V96.28h-13.99Z"/><path fill="#ffca00" d="M46.236 45.092h13.99v13.705h-13.99Z"/><path fill="#130754" d="M23.763 31.446h13.989V128h-13.99ZM68.245 91.2h13.99v29.046h-13.99Zm0-59.72h13.99v29.047h-13.99Z"/><path fill="#e70488" d="M68.245 69.011h13.99v13.705h-13.99Z"/><path fill="#130754" d="M90.248 0h13.99v96.554h-13.99Z"/></svg>" alt="Pandas" width="40" height="40"/> </a>
  <a href="https://www.dataiku.com/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/ideiEi_KEb/ido93xJJf6.png" alt="Dataiku" width="40" height="40"/> </a>
 </p>
