@@ -42,3 +42,11 @@
     <img src="https://static.vecteezy.com/system/resources/previews/015/829/760/original/xml-file-format-icon-free-vector.jpg" alt="cplusplus" width="40" height="40"/>
   </a>
 </p>
+
+<h2 align="left">Data Analysis Tools</h2>
+<p align="left">
+ <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/python/numpy/default.asp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="Numpy" width="40" height="40"/> </a>
+ <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/> </a>
+ <a href="https://www.dataiku.com/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/ideiEi_KEb/ido93xJJf6.png" alt="Dataiku" width="40" height="40"/> </a>
+</p>
