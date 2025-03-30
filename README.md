@@ -32,4 +32,7 @@
   <a href="https://www.w3schools.com/php/default.asp" target="_blank" rel="noreferrer">
     <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="cplusplus" width="40" height="40"/>
   </a>
+  <a href="https://www.w3schools.com/mysql/default.asp" target="_blank" rel="noreferrer">
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="cplusplus" width="40" height="40"/>
+  </a>
 </p>
